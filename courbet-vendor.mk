@@ -423,6 +423,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/courbet/proprietary/vendor/gpu/kbc/unified_kbcs_32.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_32.bin \
     vendor/xiaomi/courbet/proprietary/vendor/gpu/kbc/unified_kbcs_64.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_64.bin \
     vendor/xiaomi/courbet/proprietary/vendor/gpu/kbc/unified_ksqs.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_ksqs.bin \
+    vendor/xiaomi/courbet/proprietary/vendor/lib/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite-3.9.1.so \
+    vendor/xiaomi/courbet/proprietary/vendor/lib64/libprotobuf-cpp-lite-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-lite-3.9.1.so \
+    vendor/xiaomi/courbet/proprietary/vendor/lib/libprotobuf-cpp-full-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-full-3.9.1.so \
+    vendor/xiaomi/courbet/proprietary/vendor/lib64/libprotobuf-cpp-full-3.9.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-full-3.9.1.so \
     vendor/xiaomi/courbet/proprietary/vendor/lib/camera/com.qti.sensor.courbet_imx355.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.courbet_imx355.so \
     vendor/xiaomi/courbet/proprietary/vendor/lib/camera/com.qti.sensor.courbet_imx471_front.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.courbet_imx471_front.so \
     vendor/xiaomi/courbet/proprietary/vendor/lib/camera/com.qti.sensor.courbet_s5k5e9.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.courbet_s5k5e9.so \
