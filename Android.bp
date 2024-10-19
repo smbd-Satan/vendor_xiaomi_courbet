@@ -153,13 +153,11 @@ android_app_import {
 	name: "MGC",
 	owner: "google",
 	apk: "proprietary/system_ext/priv-app/MGC/MGC.apk",
-	preprocessed: true,
 	presigned: true,
-	overrides:["Flash"]
+	overrides:["Flash"],
 	dex_preopt: {
 		enabled: false,
 	},
-	privileged: true,
 	system_ext_specific: true,
 }
 
